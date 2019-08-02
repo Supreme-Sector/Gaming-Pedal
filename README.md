@@ -1,2 +1,2 @@
 # Gaming-Pedal
-Contains the code used in the gaming pedal build
+This repository contains all code used in the gaming pedal build
